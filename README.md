@@ -1,10 +1,10 @@
 # Alpine-php
 ###To run the dev environment:
 
-*SSH*
+*SSH access*
 
-     u: root 
-     p: root
+     user:     root 
+     password: root
 
 *Run*
 
